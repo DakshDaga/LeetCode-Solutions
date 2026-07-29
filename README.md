@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/DakshDaga/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1109-corporate-flight-bookings](https://github.com/DakshDaga/LeetCode-Solutions/tree/master/1109-corporate-flight-bookings) |
 | [1260-shift-2d-grid](https://github.com/DakshDaga/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DakshDaga/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DakshDaga/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1109-corporate-flight-bookings](https://github.com/DakshDaga/LeetCode-Solutions/tree/master/1109-corporate-flight-bookings) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DakshDaga/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Matrix
 |  |
