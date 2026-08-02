@@ -12,4 +12,4 @@ class Solution:
             memo[(left, right)] = max(take_left, take_right)
             return memo[(left, right)]
         
-        return helper(0, len(piles)-1) >= 0
+        return helper(0, len(piles)-1) > 0
