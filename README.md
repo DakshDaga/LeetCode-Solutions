@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/DakshDaga/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DakshDaga/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/DakshDaga/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/DakshDaga/LeetCode-Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1109-corporate-flight-bookings](https://github.com/DakshDaga/LeetCode-Solutions/tree/master/1109-corporate-flight-bookings) |
 | [1260-shift-2d-grid](https://github.com/DakshDaga/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/DakshDaga/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/DakshDaga/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/DakshDaga/LeetCode-Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DakshDaga/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DakshDaga/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/DakshDaga/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/DakshDaga/LeetCode-Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DakshDaga/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DakshDaga/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/DakshDaga/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/DakshDaga/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/DakshDaga/LeetCode-Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DakshDaga/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DakshDaga/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DakshDaga/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
