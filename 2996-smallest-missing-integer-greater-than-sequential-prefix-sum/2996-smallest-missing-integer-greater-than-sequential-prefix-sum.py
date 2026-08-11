@@ -1,13 +1,11 @@
 class Solution:
     def missingInteger(self, nums: List[int]) -> int:
-        pref_max = nums[0]
-        sumOfPref = pref_max
-        for i in range(1, len(nums)):
-            if nums[i] == nums[i-1] + 1:
-                pref_max = nums[i]
-                sumOfPref += pref_max
-            else: break
+        pref_sum = nums[0]
+        idx = 1
+        while idx < len(nums) and nums[idx] == nums[idx-1] + 1:
+                pref_sum += nums[idx]
+                idx += 1
         
-        while(sumOfPref in nums):
-            sumOfPref += 1
-        return sumOfPref
+        while(pref_sum in nums):
+            pref_sum += 1
+        return pref_sum
