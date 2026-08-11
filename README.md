@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/DakshDaga/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0486-predict-the-winner](https://github.com/DakshDaga/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DakshDaga/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/DakshDaga/LeetCode-Solutions/tree/master/0877-stone-game) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/DakshDaga/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DakshDaga/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DakshDaga/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DakshDaga/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
