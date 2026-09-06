@@ -1,5 +1,8 @@
 class Solution:
     def numDistinct(self, s: str, t: str) -> int:
+        if len(t) > len(s):
+            return 0
+            
         memo = {}
         def solve(i, j):
             if(j == len(t)): return 1
