@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/DakshDaga/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0486-predict-the-winner](https://github.com/DakshDaga/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DakshDaga/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/DakshDaga/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/DakshDaga/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/DakshDaga/LeetCode-Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1109-corporate-flight-bookings](https://github.com/DakshDaga/LeetCode-Solutions/tree/master/1109-corporate-flight-bookings) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/DakshDaga/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/DakshDaga/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/DakshDaga/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String
