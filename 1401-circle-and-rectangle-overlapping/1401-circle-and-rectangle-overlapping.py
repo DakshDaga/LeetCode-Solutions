@@ -3,7 +3,7 @@ class Solution:
         closestX = max(x1, min(x2, xCenter))
         closestY = max(y1, min(y2, yCenter))
 
-        xDiff = abs(xCenter - closestX)
-        yDiff = abs(yCenter - closestY)
+        xDiff = xCenter - closestX
+        yDiff = yCenter - closestY
 
         return xDiff**2 + yDiff**2 <= radius**2
