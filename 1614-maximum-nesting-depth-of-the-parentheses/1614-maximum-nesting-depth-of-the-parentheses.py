@@ -4,8 +4,8 @@ class Solution:
         for ch in s:
             if ch == '(':
                 count += 1
-                ans = max(count, ans)
             elif ch == ')':
                 count -= 1
+            ans = max(count, ans)
         
         return ans
